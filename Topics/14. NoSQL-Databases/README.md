@@ -1,5 +1,4 @@
 <!-- section start -->
-
 <!-- attr: {id: 'title', class: 'slide-title', hasScriptWrapper: true} -->
 # NoSQL Databases
 ## NoSQL Concepts, MongoDB, Redis
@@ -7,11 +6,10 @@
 <div class="signature">
     <p class="signature-course">Databases</p>
     <p class="signature-initiative">Telerik Software Academy</p>
-    <a href="http://academy.telerik.com" class="signature-link">http://academy.telerik.com</a>
+    <a href="https://telerikacademy.com" class="signature-link">https://telerikacademy.com</a>
 </div>
 
 <!-- section start -->
-
 <!-- attr: {id: 'table-of-contents'} -->
 # Table of Contents
 
@@ -21,7 +19,6 @@
 *   Relational vs NoSQL Databases
 
 <!-- section start -->
-
 <!-- attr: {class: 'slide-section', showInPresentation: true} -->
 <!-- #   NoSQL Databases
 ##    Overview, Models, Concepts, Examples -->
@@ -64,7 +61,6 @@
 *   NoSQL == "No SQL" or "Not Only SQL"?
 
 <!-- section start -->
-
 <!-- attr: {id: 'questions', class: 'slide-questions', showInPresentation: true} -->
 # Database Transactions Concepts
 ## Questions
