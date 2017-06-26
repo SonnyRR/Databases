@@ -6,9 +6,9 @@
     * Not implemented (0)
 
 - How is the query implemented?
-    * With 2 inner joins and a where clause (2)
+    * With 2 joins and a where clause (2)
     * With less than 2 joins, but still works (1)
-    * Without any joins
+    * Without any joins (0)
     * Not implemented (0)
 
 - The result table has only columns 'Id' and 'Name'?
@@ -24,7 +24,7 @@
     * Not implemented (0)
 
 - How is the query implemented?
-    * With 3 inner joins (2)
+    * With 3 joins (2)
     * With less than 3 joins, but still works (1)
     * Not implemented (0)
 
@@ -56,7 +56,7 @@
     * Not implemented (0)
 
 - How is the query implemented?
-    * With 3 inner joins (2)
+    * With 3 joins (2)
     * With less than 3 joins, but still works (1)
     * Not implemented (0)
 
@@ -90,8 +90,8 @@
 
 
 - usp_GetSuperheroInfo is implemented:
-    * With 6+ inner join (2)
-    * With less than 6 joins, but still works (1)
+    * With 5+ join (2)
+    * With less than 5 joins, but still works (1)
     * Not implemented (0)
 
 - usp_GetSuperheroInfo contains repeating column values in multiple rows (i.e. Groot protects both 'Earth' and 'The Galaxy' and should has atleast two rows for that)
@@ -121,7 +121,8 @@
     * Not implemented (0)
 
 - usp_GetPlanetsWithHeroesCount is implemented:
-    * With 3+ inner join (2)
+    * With 3+ join (2)
+    * With loops and PRINT (2)
     * With less than 3 joins, but still works (1)
     * Not implemented (0)
 
