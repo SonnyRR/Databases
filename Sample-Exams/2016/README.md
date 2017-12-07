@@ -29,6 +29,7 @@ _November 8, 2016_
       - Unique
     - **type**:
       - One of the following: `Science`, `Mystic`, `Mutant`, `Tech`, `Intellect`, `Super Natural`, `God`
+    - Powers must be unique, i.e. if two superheroes have the same power (name and type) the power object must be the same
   - Each city has a **name** and **country**
     - **name**:
       - Between **2** and **30** characters long
