@@ -27,6 +27,8 @@ _November 8, 2016_
     - **name**:
       - Between **3** and **35** characters long
       - Unique
+    - **type**:
+      - One of the following: `Science`, `Mystic`, `Mutant`, `Tech`, `Intellect`, `Super Natural`, `God`
   - Each city has a **name** and **country**
     - **name**:
       - Between **2** and **30** characters long
